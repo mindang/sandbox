@@ -1,0 +1,11 @@
+numpy
+pandas
+transformers
+scikit-learn
+torch
+flask
+requests
+joblib
+fastapi
+uvicorn
+pydantic
