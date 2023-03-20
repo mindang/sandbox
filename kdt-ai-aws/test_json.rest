@@ -1,0 +1,7 @@
+POST http://localhost:8000/predict
+Content-Type: application/json
+
+{
+    "text": ["앤트맨 진짜 기대했던거 보다 훨씬 노잼 시간 아까울뻔;;","유치하지만 재밌었어"],
+    "model_type":"dl"
+}
